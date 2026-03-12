@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS5405DR")(type "KiCad")(uri "/home/earlyc/Documents/Github/AMBOT-locomotion-breakout/ECAD-Addon-Files/TPS5405DR/TPS5405DR.kicad_sym")(options "")(descr ""))
+)
